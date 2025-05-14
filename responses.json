@@ -1,0 +1,13 @@
+{
+  "inicio": [
+    "Obrigado por entrar em contato. Como posso ajudar você hoje?",
+    "Opa, o que precisa?",
+    "Como posso ajudar?",
+    "O que precisa hoje?"
+  ],
+  "resposta_fim": [
+    "Obrigado pela mensagem! Estou analisando e respondo em breve.",
+    "Beleza, vou analisar aqui!",
+    "Um momento por favor."
+  ]
+}
